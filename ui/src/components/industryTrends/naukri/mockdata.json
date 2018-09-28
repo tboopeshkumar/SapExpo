@@ -1,0 +1,70 @@
+{
+    "records": [ 
+      {
+        "insert_date": "09/27/2018", 
+        "jobs_in_bengaluru": 1836, 
+        "jobs_in_delhi_ncr": 969, 
+        "jobs_in_gurgaon": 445, 
+        "jobs_in_hyderabad": 538, 
+        "jobs_in_mumbai": 655, 
+        "keyword": "machine learning", 
+        "source": "naukri", 
+        "total_jobs": 4886
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "jobs_in_bengaluru": 124, 
+        "jobs_in_delhi_ncr": 113, 
+        "jobs_in_gurgaon": 44, 
+        "jobs_in_hyderabad": 55, 
+        "jobs_in_mumbai": 73, 
+        "keyword": "blockchain", 
+        "source": "naukri", 
+        "total_jobs": 412
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "jobs_in_bengaluru": 2434, 
+        "jobs_in_delhi_ncr": 1084, 
+        "jobs_in_gurgaon": null, 
+        "jobs_in_hyderabad": 718, 
+        "jobs_in_mumbai": 744, 
+        "keyword": "big data", 
+        "source": "naukri", 
+        "total_jobs": 6653
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "jobs_in_bengaluru": 1947, 
+        "jobs_in_delhi_ncr": 714, 
+        "jobs_in_gurgaon": null, 
+        "jobs_in_hyderabad": 717, 
+        "jobs_in_mumbai": 474, 
+        "keyword": "DEVOPs", 
+        "source": "naukri", 
+        "total_jobs": 4999
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "jobs_in_bengaluru": 997, 
+        "jobs_in_delhi_ncr": 309, 
+        "jobs_in_gurgaon": null, 
+        "jobs_in_hyderabad": 364, 
+        "jobs_in_mumbai": null, 
+        "keyword": "micro services", 
+        "source": "naukri", 
+        "total_jobs": 2497
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "jobs_in_bengaluru": 597, 
+        "jobs_in_delhi_ncr": 338, 
+        "jobs_in_gurgaon": 177, 
+        "jobs_in_hyderabad": 109, 
+        "jobs_in_mumbai": 201, 
+        "keyword": "artificial intelligence", 
+        "source": "naukri", 
+        "total_jobs": 1489
+      }
+    ]
+  }

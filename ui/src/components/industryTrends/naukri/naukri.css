@@ -1,0 +1,9 @@
+.RootContainer{
+    margin-top: 50px
+}
+
+.legendButton{ margin: 3px;
+    color: white;
+    padding: 5px;
+    min-height: 5px;
+}

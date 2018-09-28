@@ -1,0 +1,94 @@
+{
+  "records": [
+    {
+      "Repositories": "34000", 
+      "Topics": "188", 
+      "Users": "8000", 
+      "Wikis": "8000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "blockchain", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "125000", 
+      "Topics": "225", 
+      "Users": "21000", 
+      "Wikis": "25000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "machine learning", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "6000", 
+      "Topics": "3", 
+      "Users": "188", 
+      "Wikis": "2000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "micro services", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "13000", 
+      "Topics": "26", 
+      "Users": "4000", 
+      "Wikis": "3000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "artificial intelligence", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "34000", 
+      "Topics": "188", 
+      "Users": "8000", 
+      "Wikis": "8000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "blockchain", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "125000", 
+      "Topics": "225", 
+      "Users": "21000", 
+      "Wikis": "25000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "machine learning", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "6000", 
+      "Topics": "3", 
+      "Users": "188", 
+      "Wikis": "2000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "micro services", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "13000", 
+      "Topics": "26", 
+      "Users": "4000", 
+      "Wikis": "3000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "artificial intelligence", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "57000", 
+      "Topics": "83", 
+      "Users": "11000", 
+      "Wikis": "4000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "devops", 
+      "source": "github"
+    }, 
+    {
+      "Repositories": "24000", 
+      "Topics": "20", 
+      "Users": "5000", 
+      "Wikis": "49000", 
+      "insert_date": "09/27/2018", 
+      "keyword": "big data", 
+      "source": "github"
+    }
+  ]
+}

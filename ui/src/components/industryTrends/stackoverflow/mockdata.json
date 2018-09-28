@@ -1,0 +1,32 @@
+{
+    "records": [
+      {
+        "insert_date": "09/27/2018", 
+        "keyword": "DEVOPs", 
+        "source": "stackoverflow", 
+        "totalJobs": 1159, 
+        "totalQues": 1602
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "keyword": "big data", 
+        "source": "stackoverflow", 
+        "totalJobs": 839, 
+        "totalQues": 6036
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "keyword": "blockchain", 
+        "source": "stackoverflow", 
+        "totalJobs": 124, 
+        "totalQues": 2038
+      }, 
+      {
+        "insert_date": "09/27/2018", 
+        "keyword": "machine learning", 
+        "source": "stackoverflow", 
+        "totalJobs": 946, 
+        "totalQues": 26393
+      }
+    ]
+  }
